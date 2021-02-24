@@ -1,5 +1,5 @@
 # The Qasim's World Beta Apps
-Welcome! These are all the new but untested app for Qasim's World.
+Welcome! These are all the new but untested apps for Qasim's World.
 
 You can test them now!
 
